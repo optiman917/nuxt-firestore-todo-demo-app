@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-demo-app",
+  "name": "nuxt-firestore-todo-demo-app",
   "version": "1.0.0",
   "private": true,
   "scripts": {

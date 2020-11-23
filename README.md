@@ -1,4 +1,4 @@
-# nuxt-demo-app
+# nuxt-firestore-todo-demo-app
 
 ## Build Setup
 
